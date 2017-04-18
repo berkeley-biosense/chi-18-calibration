@@ -7,7 +7,7 @@ forked from [usenix-17-stimuli](https://github.com/berkeley-biosense/usenix-17-s
 ## One-time setup
 
 1. [Download PsychoPy](http://www.psychopy.org/) if you don't already have it.
-2. Go to PsychoPy preferences, General tab. In the Paths field, enter the path to the `thrird-party` directory of this repo. e.g., `['/Users/ffff/Projects/chi-18-stimuli/third-party/OSC']`.
+2. Go to PsychoPy preferences, General tab. In the Paths field, enter the path to the `third-party` directory of this repo. e.g., `['/Users/ffff/Projects/chi-18-stimuli/third-party/OSC']`.
 
 ## Running the experiment.
 1. Open PyschoPy, and open up `experiment.psyexp` file from this repo.
